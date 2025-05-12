@@ -1,0 +1,1 @@
+This is just an environment where I play around with computational physics models, mostly in things that interest me and some assignments. Code it not optimized but fun to mess with. 
